@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Alamo">
+
+	<Key ID="STR_TB_missionTitle_TB_Alamo">
+		<Original>Alamo</Original>
+		<English>Alamo</English>
+		<German>Alamo</German>
+		<Italian>Alamo</Italian>
+		<Spanish>Alamo</Spanish>
+		<French>Alamo</French>
+		<Czech>Alamo</Czech>
+		<Russian>Alamo</Russian>
+		<Polish>Alamo</Polish>
+		<Hungarian>Alamo</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Alamo">
+		<Original>TacBF A&amp;S[T-10]: Alamo</Original>
+		<English>TacBF A&amp;S[T-10]: Alamo</English>
+		<German>TacBF A&amp;S[T-10]: Alamo</German>
+		<Italian>TacBF A&amp;S[T-10]: Alamo</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Alamo</Spanish>
+		<French>TacBF A&amp;S[T-10]: Alamo</French>
+		<Czech>TacBF A&amp;S[T-10]: Alamo</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Alamo</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Alamo</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Alamo</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
